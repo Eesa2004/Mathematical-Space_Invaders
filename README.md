@@ -5,9 +5,11 @@ A game combining both skill and knowledge by randomly generating equations or nu
 Skills demonstrated:
 SQL Commands - sending data to a local rationalised database, 
 Basic OOP, 
-Basic python code, 
+Basic Python code, 
+Use of different modules/libraries such as pygame and numpy. 
 
 Improvements I could make:
 Increase efficiency of code, 
 Integrate complex concepts of OOP into code, 
-connect to a cloud database.
+connect to a cloud database,
+Use of Pandas package to sort data.
